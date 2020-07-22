@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 #github.com/adilkhan/Cam-Hackers
-import requests,re,os
+import request,re,os
 import time
 import sys
 
